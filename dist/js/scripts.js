@@ -57,3 +57,14 @@
 
 
 
+/*!
+    * Start Bootstrap - Grayscale v6.0.1 (https://startbootstrap.com/themes/grayscale)
+    * Copyright 2013-2020 Start Bootstrap
+    * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
+    */
+
+/*!
+    * Start Bootstrap - Grayscale v6.0.1 (https://startbootstrap.com/themes/grayscale)
+    * Copyright 2013-2020 Start Bootstrap
+    * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
+    */
